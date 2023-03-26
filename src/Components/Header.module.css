@@ -1,0 +1,15 @@
+.header-div {
+  padding: 2rem;
+  background-color: #002b5b;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.main-heading {
+  color: white;
+  text-align: center;
+  font-weight: 400;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 2px;
+}
+.heading-focus {
+  font-weight: 600;
+}

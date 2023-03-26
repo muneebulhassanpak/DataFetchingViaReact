@@ -1,0 +1,18 @@
+.app-container {
+  text-align: center;
+  background-color: #002b5b;
+  min-height: 100vh;
+}
+.fetch-button {
+  padding: 1rem 2rem;
+  border-radius: 50px;
+  border: none;
+  background-color: #159895;
+  color: white;
+  font-size: 1rem;
+  margin: 2rem 0rem;
+}
+.fetch-button:hover {
+  cursor: pointer;
+  background-color: #20a8a6;
+}
