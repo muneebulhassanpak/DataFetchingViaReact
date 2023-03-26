@@ -7,8 +7,8 @@ const MoviesList = (props) => {
       {props.movies.map((item) => (
         <MovieItem
           title={item.title}
-          episode={item.episode_id}
-          description={item.opening_crawl}
+          episode={item.episode}
+          description={item.description}
         />
       ))}
     </div>
